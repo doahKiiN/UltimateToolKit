@@ -1,0 +1,2 @@
+Hi I am a beginner developer and this is my bible library it is created to make writing code easier and faster.
+BUT because I'm a lazy piece of shit I haven't written documentation on how to use this shit, BUT I will, someday.
